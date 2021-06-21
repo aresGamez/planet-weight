@@ -2,6 +2,7 @@
 #include <iostream>
 // This code is made by AresGamez
 using namespace std;
+// Global Variables
 int weight;
 int moon;
 int venus;
